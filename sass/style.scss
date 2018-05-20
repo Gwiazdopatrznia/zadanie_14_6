@@ -1,0 +1,17 @@
+.counter {
+	button {
+		color: #6d6b6b;
+		width: 60px;
+		height: 60px;
+		font-size: 30px;
+	}
+	button:first-child {
+		background-color: #f8acab;
+	}
+	button:last-child {
+		background-color: #8bc0f4;
+	}
+	span {
+		padding: 10px;
+	}
+}
